@@ -6,6 +6,7 @@ IQStaT is a class of software developed to investigate the results obtained from
 ## Instructions to use IQStat1
 ---
 1. Download *IQStaT1.rar* from <a href="https://github.com/SubhadipN/IQStat/blob/main/IQStaT1.rar">here</a>.
+2. Unzip *IQStaT1.rar* and get the folder '*IQStaT1*'.
 ---
 
 ## Cite as
