@@ -12,7 +12,7 @@ IQStaT is a class of software developed to investigate the results obtained from
 
 3. Find file *IQStaT1.input* within the unzipped folder, and enter numerical values (from Line 1 to Line 17) associated with different parameters (for sucessful execution of *IQStat1.exe*) as shown in that file. Representation of various geometrical parameters (from Line 1 to Line 7) for different types of quasi-static experimental arrangements is shown in the figure given below for better clarity.
 <p align="center">
-    <img align="center" src="https://drive.google.com/uc?export=view&id=18AEgjvi-5OX_SYTfAg_KjDnQ6nDbGKxY" alt="drawing" width="800"/>
+    <img align="center" src="https://drive.google.com/uc?export=view&id=18AEgjvi-5OX_SYTfAg_KjDnQ6nDbGKxY" alt="drawing" width="750"/>
 </p>
 
 4. Provide the filename, which includes the experimental data, at the end (i.e., Line 18) of *IQStaT1.input* file. The filename must not have any blank space.
