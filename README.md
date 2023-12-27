@@ -1,1 +1,1 @@
-# IQStat1
+# Investigation on Quasi-STAtic Test (IQStat)
