@@ -12,6 +12,7 @@ IQStaT is a class of software developed to investigate the results obtained from
     <img align="center" src="https://drive.google.com/uc?export=view&id=18AEgjvi-5OX_SYTfAg_KjDnQ6nDbGKxY" alt="drawing" width="800"/>
 </p>
 5. Provide the filename, which includes the experimental data, at the end (i.e., Line 18) of 'IQStaT1.input' file. The filename must not have any blank space. 
+
 ---
 
 ## Cite as
