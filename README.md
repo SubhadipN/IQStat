@@ -6,7 +6,9 @@ IQStaT is a class of software developed to investigate the results obtained from
 ## Instructions to use IQStat1
 ---
 1. Download *IQStaT1.rar* from <a href="https://github.com/SubhadipN/IQStat/blob/main/IQStaT1.rar">here</a>.
-2. Unzip *IQStaT1.rar* and get the folder '*IQStaT1*'.
+2. Unzip *IQStaT1.rar*.
+3. Find file 'IQStaT1.input' within the unzipped folder, and enter numerical values (from Line 1 to Line 17) associated with different parameters as shown in that file. Representation of various geometrical parameters (from Line 1 to Line 7) for different types of quasi-static experimental arrangements is shown in image file 'IQStaT1_schematics.png'.
+4. Provide the filename, which includes the experimental data, at the end (i.e., Line 18) of 'IQStaT1.input' file. The filename must not have any blank space. 
 ---
 
 ## Cite as
