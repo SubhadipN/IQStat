@@ -4,7 +4,7 @@
 
 **IQStaT** is a class of software developed to investigate the results obtained from the quasi-static (or pseudo-static) test of cantilever columns. In the case of the most commonly used conventional experimental setup for cantilever columns, the true lateral load behavior and its capacity (both yield and ultimate) cannot be captured due to the fixing arrangements of the actuator heads and their interactions with the column specimen. Therefore, the experimental data must be rectified before using them directly for other purposes (e.g., calibration of any numerical model). The current software (*IQStaT1.exe*) considers force and displacement readings of vertical and horizontal actuators recorded during a monotonic or cyclic quasi-static test in the case of a cantilever column subjected to (constant) axial loading and unidirectional lateral loading as input and it produces the corresponding rectified displacement and force values along with the capacity parameters as output following the mechanics-based approach proposed by <a href="https://doi.org/10.1061/(ASCE)ST.1943-541X.0002522">Naskar et al.</a>. 
 
-## Instructions to use IQStat1
+## Instructions to use IQStaT1
 ---
 
 1. Download *IQStaT1.rar* from <a href="https://github.com/SubhadipN/IQStat/blob/main/IQStaT1.rar">here</a>.
