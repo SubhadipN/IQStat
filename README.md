@@ -7,12 +7,10 @@ IQStaT is a class of software developed to investigate the results obtained from
 ---
 1. Download *IQStaT1.rar* from <a href="https://github.com/SubhadipN/IQStat/blob/main/IQStaT1.rar">here</a>.
 2. Unzip *IQStaT1.rar*.
-3. Find file 'IQStaT1.input' within the unzipped folder, and enter numerical values (from Line 1 to Line 17) associated with different parameters as shown in that file. Representation of various geometrical parameters (from Line 1 to Line 7) for different types of quasi-static experimental arrangements is shown in image file 'IQStaT1_schematics.png'.
+3. Find file 'IQStaT1.input' within the unzipped folder, and enter numerical values (from Line 1 to Line 17) associated with different parameters (for sucessful execution of *IQStat1.exe*) as shown in that file. Representation of various geometrical parameters (from Line 1 to Line 7) for different types of quasi-static experimental arrangements is shown in the figure given below for better clarity.
 <p align="center">
     <img align="center" src="https://drive.google.com/uc?export=view&id=18AEgjvi-5OX_SYTfAg_KjDnQ6nDbGKxY" alt="drawing" width="800"/>
 </p>
-<p align="center"> Figure 1: (a) geometry of a flat-bottomed concrete gravity dam in $z$-plane, (b) boundary conditions of flownets in $w$-plane </p>
-
 5. Provide the filename, which includes the experimental data, at the end (i.e., Line 18) of 'IQStaT1.input' file. The filename must not have any blank space. 
 ---
 
