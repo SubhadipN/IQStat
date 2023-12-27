@@ -29,5 +29,8 @@ Each row of this file corresponds to the increments of the (displacement- or for
 
 ---
 
+> [!Note]
+>
+
 ## Cite as
 **S. Naskar**, S. Das, H.B. Kaushik (2017) "Retrieval of True Lateral Load–Deformation Behavior of Axially Loaded Columns from Experimental Data", *Journal of Structural Engineering*, Vol. 146(3), pp. 04020007. <a href="https://doi.org/10.1061/(ASCE)ST.1943-541X.0002522">https://doi.org/10.1061/(ASCE)ST.1943-541X.0002522</a>
